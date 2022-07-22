@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data tech industry
-- 📫 How to reach me adharshsobhanan@gmail.com, Mob no :8589802084
+- 📫  Reach me :: adharshsobhanan@gmail.com, Mob no :8589802084
 
 <!---
 Adharshcapel/Adharshcapel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
