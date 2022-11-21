@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adharshcapel
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m passionate about statistics, Macchine learning, Deep Learning
+- 🌱 I’ am currently improving my data science skills
 - 💞️ I’m looking to collaborate on Data tech industry
 - 📫  Reach me :: adharshsobhanan@gmail.com, Mob no :8589802084
 
