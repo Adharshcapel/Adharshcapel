@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adharshcapel
-- 👀 I’m passionate about statistics, Macchine learning, Deep Learning
+- 👀 I’m passionate about statistics, Machine learning, Deep Learning
 - 🌱 I’ am currently improving my data science skills
 - 💞️ I’m looking to collaborate on Data tech industry
 - 📫  Reach me :: adharshsobhanan@gmail.com, Mob no :8589802084
